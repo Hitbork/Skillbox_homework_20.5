@@ -1,0 +1,20 @@
+# ninja log v5
+41	1460	7297886824384001	build.ninja	ce5dc20307f5f67a
+1	828	7297886834560103	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+830	1224	7297886838449670	Exercise_4.exe	c87b9bcfa1765fa5
+5	980	7297888896891239	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+981	1099	7297888898077225	Exercise_4.exe	c87b9bcfa1765fa5
+5	612	7297889967470628	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+613	798	7297889969475286	Exercise_4.exe	c87b9bcfa1765fa5
+4	641	7297905312127701	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+642	799	7297905313757264	Exercise_4.exe	c87b9bcfa1765fa5
+6	454	7297906172243131	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+460	628	7297906173937039	Exercise_4.exe	c87b9bcfa1765fa5
+4	707	7297908417580785	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+708	840	7297908418851250	Exercise_4.exe	c87b9bcfa1765fa5
+4	565	7297932691402019	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+566	714	7297932692830768	Exercise_4.exe	c87b9bcfa1765fa5
+4	447	7297936377449161	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+447	572	7297936378623337	Exercise_4.exe	c87b9bcfa1765fa5
+4	515	7297938001417478	CMakeFiles/Exercise_4.dir/main.cpp.obj	5a790b683dcce732
+515	644	7297938002674977	Exercise_4.exe	c87b9bcfa1765fa5
